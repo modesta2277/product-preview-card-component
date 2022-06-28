@@ -17,8 +17,9 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-
+Solution
 ![SOLUTION](./Product%20preview%20card%20component%20-%2028_06_2022%2010_57_54.png)
+Design
 ![DESIGN](./design/desktop-design.jpg)
 
 ### Links
