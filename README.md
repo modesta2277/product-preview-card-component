@@ -24,7 +24,7 @@ Design
 
 ### Links
 
-- Live Site URL: [URL here]()
+- Live Site URL: [URL here](https://modesta2277.github.io/product-preview-card-component/)
 
 ### Built with
 
