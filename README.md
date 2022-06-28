@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Screenshot
 
-!SOLUTION[SOLUTION](./Product%20preview%20card%20component%20-%2028_06_2022%2010_57_54.png)
-!DESIGN[DESIGN](./design/desktop-design.jpg)
+![SOLUTION](./Product%20preview%20card%20component%20-%2028_06_2022%2010_57_54.png)
+![DESIGN](./design/desktop-design.jpg)
 
 ### Links
 
